@@ -7,6 +7,7 @@ public class PruebaSwitch2 {
 		      float n1;
 		      float n2;
 		      char op;
+		      System.out.println("Bienvenido al programa de como sumar, restar, dividir y multiplicar en java usando eclipse");
 		     System.out.println("1-sumar\n"+"2-Restar\n"+"3-Multiplicar\n"+"4-Dividir");
 		      System.out.println("Teclea un número ");
 		      n1= teclado.nextFloat();
@@ -31,7 +32,8 @@ public class PruebaSwitch2 {
 	System.out.println("No válido" ); /*Cambio aquí*/
 	break;
 		      }
-	System.out.println("Primer cambio en el Repositorio, cambiamos 'Error' por 'No válido' ");
+	System.out.println("Primer cambio en el Repositorio, cambiamos 'Error' por 'No válido' 2.0");
+	System.out.println("Segundo cambio en el repositorio, añadimos una bienvenida al comiendo del programa 2.1");
 		   }
 		}
 
