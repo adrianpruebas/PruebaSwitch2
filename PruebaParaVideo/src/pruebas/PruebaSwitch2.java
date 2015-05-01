@@ -28,9 +28,10 @@ public class PruebaSwitch2 {
 	System.out.println( n1 / n2 );
 	break;
 	default:
-	System.out.println("error" );
+	System.out.println("No válido" ); /*Cambio aquí*/
 	break;
 		      }
+	System.out.println("Primer cambio en el Repositorio, cambiamos 'Error' por 'No válido' ");
 		   }
 		}
 
